@@ -204,4 +204,4 @@ Epoch 00050: val_acc did not improve from 0.91890
 10000/10000 [==============================] - 6s 589us/step
 
 Test loss: 0.4829313846111298
-Test accuracy: 0.9175
+Validation accuracy: 91.75%
