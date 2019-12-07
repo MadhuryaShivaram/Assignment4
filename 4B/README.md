@@ -1,3 +1,5 @@
+Batch size - 128; num_filters = 32
+
 50 EPOCHS :
 
 Using real-time data augmentation.
